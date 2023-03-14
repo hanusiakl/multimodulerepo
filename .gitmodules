@@ -6,3 +6,7 @@
 	path = project2
 	url = https://github.com/techforum-repo/project2.git
 	branch = main
+[submodule "flight-service"]
+	path = flight-service
+	url = https://github.com/hanusiakl/flight.service.git
+	branch = main

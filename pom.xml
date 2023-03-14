@@ -9,5 +9,6 @@
     <modules>
         <module>project1</module>
         <module>project2</module>
+        <module>flight-service</module>
     </modules>
 </project>
